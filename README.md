@@ -8,7 +8,7 @@
 
 <img width="2255" height="720" alt="collecotheque" src="https://github.com/user-attachments/assets/dbb4f7fe-a8f1-456e-8bf0-c9033f04c7da" />
 
-## 🎯 Description
+##  Description
 
 CollecOthèque est une application mobile développée avec Flutter qui permet aux utilisateurs de gérer leur collection de livres de manière organisée et intuitive. L'application suit une structure hiérarchique : **Bibliothèques → Étagères → Collections → Livres**.
 
@@ -21,21 +21,21 @@ CollecOthèque est une application mobile développée avec Flutter qui permet a
 <img width="549" height="681" alt="Capture d’écran_2025-11-26_15-54-25" src="https://github.com/user-attachments/assets/448dd06e-b742-48fe-91e1-7b079e064172" />
 
 
-## ✨ Fonctionnalités
+##  Fonctionnalités
 
-### 🏗️ Organisation Modulaire
+###  Organisation Modulaire
 - **Bibliothèques multiples** (ex: Salon, Chambre, Bureau)
 - **Étagères thématiques** (ex: Romans, BD, Cuisine)
 - **Collections spécifiques** (ex: Policier, Science-Fiction, Recettes)
 - **Gestion hiérarchique complète**
 
-### 🔍 Gestion des Livres
+###  Gestion des Livres
 - **Ajout par code ISBN** (13 chiffres)
 - **Recherche automatique** via l'API Open Library
 - **Récupération des métadonnées** (titre, auteur, couverture)
 - **Affichage des détails complets**
 
-### 💾 Données
+###  Données
 - **Stockage local persistant** avec Shared Preferences
 - **Sauvegarde automatique**
 - **Données conservées** entre les sessions
@@ -77,17 +77,18 @@ Bibliothèque "Salon"
 │   └── Collection "Science-Fiction"
 └── Étagère "Art"
     └── Collection "Peinture"
+```bash
 
-📝 Licence
+Licence
 
 Ce projet est sous licence MIT. Voir le fichier LICENSE pour plus de détails.
-👨‍💻 Auteur
+ Auteur
 
     GitHub: @jricart12
 
     LinkedIn: https://www.linkedin.com/in/julien-ricart-684763347/
 
-🙏 Remerciements
+ Remerciements
 
     Open Library pour l'API livres
 
