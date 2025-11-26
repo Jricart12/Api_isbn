@@ -83,8 +83,6 @@ Bibliothèque "Salon"
 Ce projet est sous licence MIT. Voir le fichier LICENSE pour plus de détails.
 👨‍💻 Auteur
 
-Votre Nom
-
     GitHub: @jricart12
 
     LinkedIn: https://www.linkedin.com/in/julien-ricart-684763347/
