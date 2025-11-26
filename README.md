@@ -60,3 +60,39 @@ flutter pub get
 
 # Lancer l'application
 flutter run
+
+lib/
+├── main.dart              # Point d'entrée de l'application
+├── myhomepage.dart        # Page d'accueil avec saisie ISBN
+├── affichepage.dart       # Affichage des détails du livre
+├── bibliotheque.dart      # Gestion des bibliothèques
+├── collection.dart        # Gestion des collections
+├── etagere.dart           # Gestion des étagères
+├── livre.dart             # Affichage des livres
+└── data_service.dart      # Service de persistance des données
+
+Bibliothèque "Salon"
+├── Étagère "Romans"
+│   ├── Collection "Policier"
+│   └── Collection "Science-Fiction"
+└── Étagère "Art"
+    └── Collection "Peinture"
+
+📝 Licence
+
+Ce projet est sous licence MIT. Voir le fichier LICENSE pour plus de détails.
+👨‍💻 Auteur
+
+Votre Nom
+
+    GitHub: @jricart12
+
+    LinkedIn: https://www.linkedin.com/in/julien-ricart-684763347/
+
+🙏 Remerciements
+
+    Open Library pour l'API livres
+
+    Flutter pour le framework extraordinaire
+
+    La communauté Dart/Flutter pour le support
